@@ -8,6 +8,7 @@ import clip
 import torch.nn.functional as F
 import os
 # bbbb
+# bbbb
 
 imgw, imgh = 224, 224
 rs_base_dir=r'../data/rsimgs'
